@@ -19,11 +19,11 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/anhduy412" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anhduy412" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anhduy12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anhduy12" height="30" width="40" /></a>
-<a href="https://kaggle.com/anhduy412" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anhduy412" height="30" width="40" /></a>
 <a href="https://fb.com/anhduy412" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anhduy412" height="30" width="40" /></a>
 <a href="https://instagram.com/anhduy412.ipynb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anhduy412.ipynb" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anhduy12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anhduy12" height="30" width="40" /></a>
+<a href="https://twitter.com/anhduy412" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anhduy412" height="30" width="40" /></a>
+<a href="https://kaggle.com/anhduy412" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anhduy412" height="30" width="40" /></a>
 <a href="https://dribbble.com/anhduyisonfire" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="anhduyisonfire" height="30" width="40" /></a>
 <a href="https://www.behance.net/anhduyisonfire" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="anhduyisonfire" height="30" width="40" /></a>
 </p>
