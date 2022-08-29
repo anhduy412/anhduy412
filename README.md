@@ -1,5 +1,4 @@
-<h2 align="center">Hi guys 👋, I'm Anh Duy Tran</h2>
-<h3 align="center">A Data Science rookie 👀</h3>
+<h2 align="center">Hi guys 👋, I'm Anh Duy Tran <br> A Data Science rookie 👀</h2>
 
 <hr>
 
