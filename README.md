@@ -1,6 +1,8 @@
 <h1 align="center">Hi guys 👋, I'm Anh Duy Tran</h1>
 <h3 align="center">A Data Science rookie 👀</h3>
 
+<hr>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anhduy412&label=Profile%20views&color=0e75b6&style=flat" alt="anhduy412" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anhduy412" alt="anhduy412" /></a> </p>
