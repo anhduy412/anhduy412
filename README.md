@@ -1,4 +1,4 @@
-<h1 align="center">Hi guys 👋, I'm Anh Duy Tran</h1>
+<h1 align="center">Hi guys👋 I'm Anh Duy Tran</h1>
 <h5 align="center">A Data Science rookie 👀</h5>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anhduy412&label=Profile%20views&color=0e75b6&style=flat" alt="anhduy412" /> </p>
