@@ -3,17 +3,19 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anhduy412&label=Profile%20views&color=0e75b6&style=flat" alt="anhduy412" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anhduy412" alt="anhduy412" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anhduy412" alt="anhduy412"/></a> </p>
 
-<p align="center"> <a href="https://twitter.com/anhduy412" target="blank"><img src="https://img.shields.io/twitter/follow/anhduy412?logo=twitter&style=for-the-badge" alt="anhduy412" /></a> </p>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="anhduy12" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://vn.linkedin.com/in/anhduy12?trk=profile-badge">Anh Duy Tran</a></div>
 
-- 🔭 I worked as **a Back-end Developer Intern and a Freelance Front-end Developer**
+<p align="center"> <a href="https://twitter.com/anhduy412" target="blank"><img src="https://img.shields.io/twitter/follow/anhduy412?logo=twitter&style=for-the-badge" alt="anhduy412"/></a> </p>
 
-- 🌱 I’m currently learning **everything about Data, AI and Deep Learning**
+- 👯 I’m seeking for a chance to work as `a Data Scientist and Artificial Intelligence Engineer Intern`
 
-- 👯 I’m looking to work as **a Data Scientist and Artificial Intelligence Engineer Intern**
+- 🔭 I worked as `a Back-end Developer Intern, a Freelance Front-end Developer, a Freelance Photographer and a Freelance Translator`.
 
-- 🤝 I’m looking for help with **technical interview**
+- 🌱 I’m currently learning `everything about Data, AI and Deep Learning`
+
+- 🤝 I’m looking for help with `technical interview`
 
 - 📫 Email me at **anhduytran5454@gmail.com**
 
