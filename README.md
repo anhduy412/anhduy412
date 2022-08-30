@@ -5,8 +5,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anhduy412" alt="anhduy412"/></a> </p>
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="anhduy12" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://vn.linkedin.com/in/anhduy12?trk=profile-badge">Anh Duy Tran</a></div>
-
 <p align="center"> <a href="https://twitter.com/anhduy412" target="blank"><img src="https://img.shields.io/twitter/follow/anhduy412?logo=twitter&style=for-the-badge" alt="anhduy412"/></a> </p>
 
 - 👯 I’m seeking for a chance to work as `a Data Scientist and Artificial Intelligence Engineer Intern`
