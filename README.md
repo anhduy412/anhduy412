@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning `everything about Data, AI and Deep Learning.`
 
-- 🤝 I’m looking for help with `technical interview`
+- 🤝 I’m looking for help with `study path` and `technical interview`
 
 - 📫 Email me at **anhduytran5454@gmail.com**
 
