@@ -2,7 +2,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anhduy412&label=Profile%20views&color=0e75b6&style=flat" alt="anhduy412"/> </p>
 
-- 👯 I’m seeking for a chance to work as `a Data Scientist Intern` `a Data Engineer Intern` or `an Artificial Intelligence Engineer Intern`
+- 👯 I’m seeking for a chance to work as `a Data Scientist Intern` or `an Artificial Intelligence Engineer Intern`
 
 - 🔭 I worked as `a Back-end Developer Intern` `a Freelance Front-end Developer` `a Freelance Photographer` and `a Freelance Translator.`
 
