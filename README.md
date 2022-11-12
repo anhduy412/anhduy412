@@ -1,6 +1,6 @@
 <h1 align="center">Hi guys👋 I'm Anh Duy Tran, a Data Science rookie 👀</h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=anhduy412&label=Profile%20views&color=0e75b6&style=flat" alt="anhduy412" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=anhduy412&label=Profile%20views&color=0e75b6&style=flat" alt="anhduy412"/> </p>
 
 - 👯 I’m seeking for a chance to work as `a Data Scientist Intern` `a Data Engineer Intern` or `an Artificial Intelligence Engineer Intern`
 
@@ -8,23 +8,17 @@
 
 - 🌱 I’m currently learning `everything about Data, AI and Deep Learning.`
 
-- 🤝 I’m looking for help with `study path` and `technical interview`
-
-- 📫 Email me at **anhduytran5454@gmail.com**
+- 🤝 I’m looking for help with `study path` and `technical interview.`
 
 <br>
-
-<h3 align="center">Social Media:</h3>
+<h3 align="center">Social media:</h3>
 <p align="center">
 <a href="https://fb.com/anhduy412" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anhduy412" height="30" width="40" /></a>
 <a href="https://instagram.com/anhduy412.ipynb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anhduy412.ipynb" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anhduy12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anhduy12" height="30" width="40" /></a>
 <a href="https://twitter.com/anhduy412" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anhduy412" height="30" width="40" /></a>
 <a href="https://kaggle.com/anhduy412" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anhduy412" height="30" width="40" /></a>
-<a href="https://dribbble.com/anhduyisonfire" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="anhduyisonfire" height="30" width="40" /></a>
-<a href="https://www.behance.net/anhduyisonfire" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="anhduyisonfire" height="30" width="40" /></a>
 </p>
-
 <h3 align="center">Programming Language and Tools:</h3>
 <p align="center"> 
 <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
@@ -39,11 +33,7 @@
 <a target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 <a target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
 </p>
-
 <br>
-
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=anhduy412&show_icons=true&locale=en&layout=compact" alt="anhduy412" /></p>
-
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=anhduy412&show_icons=true&locale=en" alt="anhduy412" /></p>
-
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=anhduy412&" alt="anhduy412" /></p>
