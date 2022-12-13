@@ -33,6 +33,14 @@
 <a target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 <a target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
 </p>
+<h3 align="center">My Laptop info:</h3>
+<p align='center'>
+  <img src="https://img.shields.io/badge/Windows-E95420?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/intel-core%20i7%209th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/NVIDIA-GTX_1050-ED1C24?style=for-the-badge&logo=nvidia&logoColor=white" />
+</p>
 <br>
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=anhduy412&show_icons=true&locale=en&layout=compact" alt="anhduy412" /></p>
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=anhduy412&show_icons=true&locale=en" alt="anhduy412" /></p>
