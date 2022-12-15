@@ -4,7 +4,7 @@
 
 - 👯 I'm seeking for a chance to work as `a Data Scientist Intern` or `an Artificial Intelligence Engineer Intern.`
 
-- 🔭 I worked as `a Back-end Developer Intern` `a Freelance Front-end Developer` `a Freelance Photographer` and `a Freelance Translator.`
+- 🔭 I worked as `a Back-end Developer` `a Freelance Front-end Developer` `a Freelance Photographer` and `a Freelance Translator.`
 
 - 🌱 I’m currently learning `everything about Data, AI and Deep Learning.`
 
