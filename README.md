@@ -1,6 +1,10 @@
-<h1 align="center">Hi 👋 I'm Anh Duy Tran, a Data Science rookie 👀</h1>
+<h1 align="center">Hi 👋 I'm Anh Duy (Jude) Tran, a Data Science rookie 👀</h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anhduy412&label=Profile%20views&color=0e75b6&style=flat" alt="anhduy412"/> </p>
+
+<h3>Some information about me:</h3>
+
+- ♐ I'm 21 and currently studying in `Electric Power University, Hanoi.`
 
 - 👯 I'm seeking for a chance to work as `a Data Scientist Intern` or `an Artificial Intelligence Engineer Intern.`
 
@@ -45,3 +49,5 @@
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=anhduy412&show_icons=true&locale=en&layout=compact" alt="anhduy412" /></p>
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=anhduy412&show_icons=true&locale=en" alt="anhduy412" /></p>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=anhduy412&" alt="anhduy412" /></p>
+<br>
+<h3 align="center">My most viewed project 👇</h3>
