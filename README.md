@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Anh Duy (Jude) Tran, a Data Science rookie 👀</h1>
+<h1 align="center">Hi 👋 I'm Duy Anh (Jude) Tran, a Data Science rookie 👀</h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anhduy412&label=Profile%20views&color=0e75b6&style=flat" alt="anhduy412"/> </p>
 
