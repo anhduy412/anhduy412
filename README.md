@@ -6,11 +6,11 @@
 
 - ♐ I'm 21 and currently studying in `Electric Power University, Hanoi.`
 
-- 👯 I'm seeking for a chance to work as `a Data Scientist Intern` or `an Artificial Intelligence Engineer Intern.`
+- 👯 I'm seeking for a chance to work as `a Data Scientist` `a Machine Learning Engineer` or `an Artificial Intelligence Engineer`.
 
-- 🔭 I worked as `a Back-end Developer` `a Freelance Front-end Developer` `a Freelance Photographer` and `a Freelance Translator.`
+- 🔭 I was `a Software Engineer` `a Front-end Developer` `a TFT and Clash Royale semi-pro player` `a Video editor` `a photographer` `a sport writer` and `a Translator.`
 
-- 🌱 I’m currently learning `everything about Data, AI and Deep Learning.`
+- 🌱 I’m currently learning `everything about Math, Data Science, Machine Learning and Deep Learning.`
 
 - 🤝 I’m looking for help with `study path` and `technical interview.`
 
