@@ -8,7 +8,7 @@
 
 - 👯 I'm seeking for a chance to work as `a Data Scientist` `a Machine Learning Engineer` or `an Artificial Intelligence Engineer`
 
-- 🔭 I was `a Software Engineer` `a Front-end Developer` `a TFT and Clash Royale semi-pro player` `a Video editor` `a photographer` `a sport writer` and `a Translator`
+- 🔭 I was `a Software Engineer` `a Front-end Developer` `a TFT and Clash Royale semi-pro player` `a Video editor` `a photographer` `a sport writer` and `a translator`
 
 - 🌱 I’m currently learning `everything about Math, Data Science, Machine Learning and Deep Learning.`
 
