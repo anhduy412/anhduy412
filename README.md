@@ -4,9 +4,9 @@
 
 <h3>Some information about me:</h3>
 
-- ♐ I'm 21 and currently studying in `Electric Power University, Hanoi.`
+- ♐ I'm 21 and working as a `Data Scientist` at `KPIM`. Also, I'm studying in `Electric Power University, Hanoi.`
 
-- 👯 I'm seeking for a chance to work as `a Data Scientist` `a Machine Learning Engineer` or `an Artificial Intelligence Engineer`
+<!-- - 👯 I'm seeking for a chance to work as `a Data Scientist` `a Machine Learning Engineer` or `an Artificial Intelligence Engineer` -->
 
 - 🔭 I was `a Software Engineer` `a Front-end Developer` `a TFT and Clash Royale semi-pro player` `a Video editor` `a photographer` `a sport writer` and `a translator`
 
