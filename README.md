@@ -10,7 +10,7 @@
 
 - 🙌 I’m looking for help with `study path` and `technical interview`
 
-- 🔗 <strong><a href='https://linktr.ee/anhduyisonfire'>`My social media`</a> <a href='https://drive.google.com/file/d/16-kEXYJfXtAbFd8X7OBhmPhHwCMqMEqB/view?usp=share_link'>`My resumé`</a></strong>
+- 🔗 <strong><a href='https://linktr.ee/anhduyisonfire'>`My social media`</a> <a href='https://drive.google.com/file/d/1DJ-VHv2LSvRnCvBgIktIWGedAIHhaNKR'>`My resumé`</a></strong>
 
 <h3 align="center">My buddy build:</h3>
 <p align='center'>
