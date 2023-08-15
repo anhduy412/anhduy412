@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋 I'm Duy Anh (Jude) Tran, an Entry-level Data Scientist 👀</h1>
+<h1 align="center">Hi👋 I'm Duy (Jude) Tran, an Entry-level Data Scientist 👀</h1>
 
 - ♐ I'm 21 and currenty working at `KPIM` as a `Data Scientist`. Also, I'm studying `Software Engineer` @ `Electric Power University, Hanoi`
 
