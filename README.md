@@ -1,6 +1,6 @@
-<h1 align="center">Hey, it's Duy (Jude) Tran the Data Scientist 👀</h1>
+<h1 align="center">Hey guys, it's Duy (Jude) Tran, Data Scientist 👀</h1>
 
-- ♐ A 21 years old `Data Scientist` @ `KPIM`, also a undergraduated `Software Engineer` student @ `Electric Power University, Hanoi`
+- ♐ A 21 years old working as a `Data Scientist` @ `KPIM`, also an undergraduated `Software Engineer` student @ `Electric Power University, Hanoi`
 
 <!-- - 👯 I'm seeking for a chance to work as `a Data Scientist` `a Machine Learning Engineer` or `an Artificial Intelligence Engineer` -->
 
