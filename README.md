@@ -1,4 +1,4 @@
-<h1 align="center">Hey guys, it's Duy (Jude) Tran, Data Scientist 👀</h1>
+<!-- <h1 align="center">Hey guys, it's Duy (Jude) Tran, Data Scientist 👀</h1> -->
 
 - ♐ A 21 years old working as a `Data Scientist` @ `KPIM`, also an undergraduated `Software Engineer` student @ `Electric Power University, Hanoi`
 
