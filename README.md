@@ -16,6 +16,7 @@
 <h3 align="center">About his buddy:</h3>
 <p align='center'>
   <img src="https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ubuntu_22.04-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/Intel-Core_i7_9750H-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
   <img src="https://img.shields.io/badge/NVIDIA-GTX_1050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python_3.12-2B5B84?style=for-the-badge&logo=python&logoColor=white"/>
