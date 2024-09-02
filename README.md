@@ -1,4 +1,4 @@
-<h1 align="center">Hey guys, it's Duy (Jude) Tran, Data Scientist </h1>
+<h1 align="center">Hey guys, it's Duy (Jude) Tran, a Data Scientist </h1>
 
 <!--, also an undergraduated `Software Engineer` student @ `Electric Power University, Hanoi` -->
 
